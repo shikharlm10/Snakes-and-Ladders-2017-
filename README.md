@@ -4,8 +4,8 @@ My first game using C++ +graphics in turbo C
 Showed this as my 12th class project in 2017.
 
 Simple game ,out of 100, certain boxes where there are snakes and ladders.
-If you land on ladders, you climb up to the box it ends.
-If you land on snakes , you go back to where the snake's tails ends.
+If you land on ladders, you climb up to the box it ends, not the other way around.
+If you land on snake's mouth , you go back to where the snake's tail ends.
 whoever lands  on 100 first , wins the game.
 
 NOTE:There is still some unresolved issues regarding player turn, the dice showing the result and then the puck moving.
